@@ -1,0 +1,12 @@
+Details:
+	This Project is for Current and Voltage Analysis Over Time. It graphs the data by time (Day(Hours), Week, and Months). This is a line graph project. Can determine the amount of data being used that exact date and time.
+
+How to Use this:
+	1. Access link "http://10.104.36.24/basti/Chartjs/" to any browser.
+	2. Select button on which to view either Day, Week or Month then select exact Date and then submit.
+	3. Select Device then submit.
+
+Made by: 
+	Walter James T. Bastismo a Computer Engineering student of CITE Technical Institute
+	OJT Trainee of Funai Electric Cebu Inc.
+	IT Intern - Web Application Developer
