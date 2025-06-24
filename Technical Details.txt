@@ -1,5 +1,5 @@
 Details:
-	This Project is for Current and Voltage Analysis Over Time. It graphs the data by time (Day(Hours), Week, and Months). This is a line graph project. Can determine the amount of data being used that exact date and time.
+	This Project is for Current and Voltage Analysis Over Time. It graphs the data by time (Day(Hours), Week, and Months). This is a line graph project using Chartjs. Can determine the amount of data being used that exact date and time.
 
 How to Use this:
 	1. Access link "http://10.104.36.24/basti/Chartjs/" to any browser.
